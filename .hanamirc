@@ -1,0 +1,3 @@
+project=webstore_hanami
+test=rspec
+template=erb
